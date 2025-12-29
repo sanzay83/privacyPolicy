@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/privacyPolicy/static/css/main.f855e6bc.css",
+    "main.js": "/privacyPolicy/static/js/main.47010056.js",
+    "index.html": "/privacyPolicy/index.html",
+    "main.f855e6bc.css.map": "/privacyPolicy/static/css/main.f855e6bc.css.map",
+    "main.47010056.js.map": "/privacyPolicy/static/js/main.47010056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.47010056.js"
+  ]
+}
