@@ -1,5 +1,6 @@
 {
   "name": "privacy-policy",
+  "homepage": "https://sanzay83.github.io/privacyPolicy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
